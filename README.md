@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Thirteen years of programming experience, familiar with Android, Python and AI. Good at problem-solving, fast learning, creative thinking and teamwork. Experience in software engineering and system architecture.
+- 🌱 I’m currently learning Master of Computing in Curtin University, Australia.
+- 📫 How to reach me: <ben.niu.au@gmail.com>
